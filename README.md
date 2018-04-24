@@ -35,3 +35,5 @@ This project uses SQLAlchemy to build a database.
   * register_client.html
 
 3. The css file (designs.css) contains the styling for the 7 HTML files.
+
+4. The app also has a mealapp.py file which runs on a virtual environment and contains routes for the html pages.
